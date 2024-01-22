@@ -3,6 +3,8 @@
 Project name and Description
 <!-- PROJECT SHIELDS -->
 
+[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/aJupyter/EmoLLM//network)
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
