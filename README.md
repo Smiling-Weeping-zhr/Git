@@ -1,2 +1,2 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=Smiling-Weeping-zhr/Git&type=Date)](https://star-history.com/#Smiling-Weeping-zhr/Git&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=aJupyter/EmoLLM&type=Date)](https://star-history.com/#aJupyter/EmoLLM&Date)
 
