@@ -60,9 +60,7 @@ ProjectName and Description
 
 
 ###### 开发前的配置要求
-
-1. xxxxx x.x.x
-2. xxxxx x.x.x
+详见步骤与文档[配置要求]
 
 ###### **安装步骤**
 
