@@ -60,7 +60,7 @@ ProjectName and Description
 
 
 ###### 开发前的配置要求
-详见步骤与文档[配置要求]
+详见步骤与文档[配置要求](https://github.com/Smiling-Weeping-zhr/Git/tree/master/%E9%85%8D%E7%BD%AE%E8%A6%81%E6%B1%82)
 
 ###### **安装步骤**
 
